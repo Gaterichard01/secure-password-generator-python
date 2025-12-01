@@ -2,7 +2,7 @@
 
 
 
-## 🚀 Vue d'Ensemble du Projet
+##  Vue d'Ensemble du Projet
 
 Ce projet est un **Générateur de Mots de Passe Sécurisés** développé en Python. Il est conçu comme un outil en ligne de commande (CLI) permettant aux utilisateurs de créer rapidement des mots de passe robustes et hautement personnalisables.
 
@@ -10,7 +10,7 @@ L'objectif principal est d'assurer une **force de mot de passe maximale** en gar
 
 ---
 
-## ✨ Fonctionnalités Clés
+##  Fonctionnalités Clés
 
 * **Personnalisation de la Longueur :** Définition facile de la longueur souhaitée (`-l`).
 * **Contrôle de la Composition :** Possibilité d'exclure des types de caractères (chiffres, symboles, majuscules, minuscules).
@@ -19,7 +19,7 @@ L'objectif principal est d'assurer une **force de mot de passe maximale** en gar
 
 ---
 
-## 🛠️ Installation et Exécution
+##  Installation et Exécution
 
 ### Prérequis
 
